@@ -1,5 +1,5 @@
 import numpy as np
-from Card import *
+from Classes.Card import *
 
 
 suits = ['P', 'O', 'C', 'E']

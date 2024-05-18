@@ -1,4 +1,4 @@
-from Hand import *
+from Classes.Hand import *
 
 
 class Bank(Hand):

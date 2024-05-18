@@ -1,7 +1,7 @@
-from Player import *
-from Bank import *
-from Deck import *
-from Game import *
+from Classes.Player import *
+from Classes.Bank import *
+from Classes.Deck import *
+from Classes.Game import *
 import time
 import os
 

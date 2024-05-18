@@ -1,4 +1,4 @@
-from Card import *
+from Classes.Card import *
 
 
 class Hand:
